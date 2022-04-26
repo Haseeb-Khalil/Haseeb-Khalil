@@ -37,5 +37,5 @@ I can continue to strengthen my skills.
 
   
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Haseeb3927" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Haseeb-Khalil" />
 </div>
