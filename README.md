@@ -2,12 +2,8 @@
 
 About me:
 
-As an empathetic, hardworking employee in different environments, I
-have developed excellent communication, time management, and
-team-working skills.
-Recently graduated from Code Your Future as a Full Stack Web
-Developer, I am now looking for a junior web development role where
-I can continue to strengthen my skills.
+As an empathetic, hardworking employee in different environments, I have developed excellent communication, time management, and teamwork skills. 
+Completing the Full Stack Web Developer course at Code Your Future opened the door to the role of Java Developer at Capgemini UK in May 2022. My journey of commitment to self-improvement has led me to aspire to earn a BSC Computer Science degree at the University of London.
 
 * 🔭 Currently working on a project called Energise to make an energiser application for Code Your Future.
 * 🌱 Learning to improve my coding skills day by day.
