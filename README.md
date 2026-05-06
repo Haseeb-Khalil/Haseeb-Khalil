@@ -13,19 +13,20 @@ Day to day I work in **Java, Spring Boot, Apache Camel, RESTful APIs, JPA, JUnit
 
 ### Featured projects
 
+All Java projects below run on **Java 21** and **Spring Boot 3.2**.
+
 | Project | What it shows |
 | --- | --- |
-| [MicroService](https://github.com/Haseeb-Khalil/MicroService) | Spring Cloud microservices: Eureka service registry, Spring Cloud Gateway, two domain services with inter-service calls. |
-| [CRUD_API_With_SpringBoot_PostgreSQL](https://github.com/Haseeb-Khalil/CRUD_API_With_SpringBoot_PostgreSQL) | Spring Boot 3 REST API with JPA. Runs out of the box with H2, switches to Postgres via a profile. |
-| [Basic-Apache-Camel-Project](https://github.com/Haseeb-Khalil/Basic-Apache-Camel-Project) | Apache Camel file-mover route in both Java DSL and XML DSL on Spring Boot. |
-| [weather_project](https://github.com/Haseeb-Khalil/weather_project) | Spring Boot REST service consuming the WeatherAPI third-party API and exposing endpoints for live weather and forecasts. |
-| [Booster](https://github.com/Haseeb-Khalil/Booster) | Team project (four developers). Built the Node and PostgreSQL backend of an energiser app and supported front-end React work in the final sprint. |
-| [Advance-React-Portfolio](https://github.com/Haseeb-Khalil/Advance-React-Portfolio) | React portfolio site delivered as the final project on Meta's Advanced React course. |
+| [MicroService](https://github.com/Haseeb-Khalil/MicroService) | Spring Cloud microservices on Spring Cloud 2023.0: Eureka service registry, Spring Cloud Gateway, and two domain services with load-balanced inter-service calls. |
+| [CRUD_API_With_SpringBoot_PostgreSQL](https://github.com/Haseeb-Khalil/CRUD_API_With_SpringBoot_PostgreSQL) | Spring Boot 3 REST API with JPA. Runs out of the box with H2, switches to PostgreSQL via a profile. |
+| [Basic-Apache-Camel-Project](https://github.com/Haseeb-Khalil/Basic-Apache-Camel-Project) | Apache Camel 4.4 LTS file-mover route, available in both Java DSL and XML DSL on Spring Boot. |
+| [weather_project](https://github.com/Haseeb-Khalil/weather_project) | Spring Boot service consuming the WeatherAPI third-party API and rendering current weather and multi-day forecasts through Thymeleaf views. |
+| [tax-return-service](https://github.com/Haseeb-Khalil/tax-return-service) | HMRC-style Tax Return CRUD API with Bean Validation, centralised error handling and a full test pyramid: JUnit 5 + Mockito unit tests, MockMvc controller integration, and Cucumber BDD scenarios. |
 
 ### Tech I use
 
 **Languages:** Java · JavaScript · SQL · HTML · CSS
-**Frameworks:** Spring Boot · Spring Cloud · Apache Camel · JPA / Hibernate · JUnit · Cucumber (BDD) · React · Node.js
+**Frameworks:** Spring Boot · Spring Cloud · Apache Camel · JPA / Hibernate · JUnit · Mockito · Cucumber (BDD) · React · Node.js
 **Messaging and integration:** HermesJMS · RabbitMQ · IBM MQ · REST APIs
 **Cloud and DevOps:** AWS (S3, EC2) · Microsoft Azure · Docker · Kubernetes (Rancher) · GitLab CI · Jenkins · Maven · Git
 **Databases:** PostgreSQL · Microsoft SQL Server · MongoDB · H2
