@@ -5,7 +5,7 @@ Java Developer at **Capgemini UK**, with four years of delivery experience on UK
 Day to day I work in **Java, Spring Boot, Apache Camel, RESTful APIs, JPA, JUnit and Cucumber (BDD)**, with messaging through HermesJMS and RabbitMQ, and deployments through Rancher (Kubernetes) on AWS via GitLab CI.
 
 🔐 Active UK Security Clearance (SC), valid until March 2031
-🎓 MSc Computer Science, University of London (in progress, 2025 to 2027)
+🎓 MSc Computer Science, University of London (in progress)
 🏆 GitHub Copilot Certified · PSM I · Azure Data Fundamentals · AWS Cloud Practitioner
 🚀 Selected for the Capgemini Emerging Leaders Programme 2026
 📍 Coventry, United Kingdom
