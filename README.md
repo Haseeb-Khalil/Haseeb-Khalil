@@ -33,4 +33,4 @@ All Java projects below run on **Java 21** and **Spring Boot 3.2**.
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/haseeb-khalil/) · [Portfolio](https://haseeb-khalil.netlify.app/) · haseeb3927@gmail.com
+[LinkedIn](https://www.linkedin.com/in/haseeb-khalil/) 
